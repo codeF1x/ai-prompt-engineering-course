@@ -36,3 +36,4 @@ temp_*.txt
 node_modules/
 .env
 .cache/
+GIT_UPLOAD_GUIDE.md
