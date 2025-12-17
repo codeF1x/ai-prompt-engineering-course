@@ -2,7 +2,7 @@
 
 > 从 AI 的"陪聊者"进化为"指挥官" —— 一套面向初学者的系统化 Prompt Engineering 实战课程
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Language: 中文](https://img.shields.io/badge/Language-中文-red.svg)](README.md)
 
 ---
@@ -150,11 +150,20 @@ R - Response (格式): 规定输出的形式和结构
 
 ## 📄 版权声明
 
-本课程采用 [MIT License](LICENSE) 开源协议。
+本课程采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 知识共享协议。
 
-- ✅ 可自由使用、修改、分发
-- ✅ 可用于商业用途
-- ⚠️ 请保留原作者信息
+**您可以自由地：**
+
+- ✅ **共享** - 在任何媒介以任何形式复制、发行本作品
+- ✅ **演绎** - 修改、转换或以本作品为基础进行创作
+
+**惟须遵守下列条件：**
+
+- 📝 **署名** - 必须给出适当的署名，提供指向本许可协议的链接
+- 🚫 **非商业性使用** - 不得将本作品用于商业目的
+- 🔄 **相同方式共享** - 如果基于本作品创作，必须使用相同的许可协议
+
+详细条款请查看 [LICENSE](LICENSE) 文件。
 
 ---
 
